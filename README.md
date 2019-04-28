@@ -1,6 +1,6 @@
 # StopWatch
 
-##Simple Stopwatch Mobile Application
+## Simple Stopwatch Mobile Application
 
 # 1) Default Page
 ![alt text](https://github.com/gurjot93/StopWatch/blob/master/Images/stopwatch.PNG)
