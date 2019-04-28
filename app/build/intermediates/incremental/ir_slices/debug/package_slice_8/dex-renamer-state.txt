@@ -1,0 +1,4 @@
+#Wed Sep 26 17:05:08 ADT 2018
+base.0=C\:\\Users\\gurjo\\AndroidStudioProjects\\StopWatch\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
